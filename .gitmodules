@@ -1,0 +1,60 @@
+[submodule "ctrlp.vim.git"]
+	path = ctrlp.vim.git
+	url = https://github.com/kien/ctrlp.vim
+[submodule "delimitMate.vim.git"]
+	path = delimitMate.vim.git
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "easymotion.vim.git"]
+	path = easymotion.vim.git
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "fugitive.vim.git"]
+	path = fugitive.vim.git
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "gitgutter.vim.git"]
+	path = gitgutter.vim.git
+	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "gitv.vim.git"]
+	path = gitv.vim.git
+	url = https://github.com/gregsexton/gitv.git
+[submodule "indent-guides.vim.git"]
+	path = indent-guides.vim.git
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "lightline.vim.git"]
+	path = lightline.vim.git
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "nerdtree.vim.git"]
+	path = nerdtree.vim.git
+	url = https://github.com/scrooloose/nerdtree
+[submodule "numbers.vim.git"]
+	path = numbers.vim.git
+	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "rainbow_parentheses.vim.git"]
+	path = rainbow_parentheses.vim.git
+	url = https://github.com/kien/rainbow_parentheses.vim
+[submodule "signature.vim.git"]
+	path = signature.vim.git
+	url = https://github.com/kshenoy/vim-signature.git
+[submodule "syntastic.vim.git"]
+	path = syntastic.vim.git
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "tabline.vim.git"]
+	path = tabline.vim.git
+	url = git://github.com/mkitt/tabline.vim.git
+[submodule "tabular.vim.git"]
+	path = tabular.vim.git
+	url = https://github.com/godlygeek/tabular.git
+[submodule "tagbar.vim.git"]
+	path = tagbar.vim.git
+	url = git://github.com/majutsushi/tagbar
+[submodule "tcomment.vim.git"]
+	path = tcomment.vim.git
+	url = http://github.com/tomtom/tcomment_vim
+[submodule "tmuxline.vim.git"]
+	path = tmuxline.vim.git
+	url = https://github.com/edkolev/tmuxline.vim.git
+[submodule "trailing-whitespace.vim.git"]
+	path = trailing-whitespace.vim.git
+	url = http://github.com/bronson/vim-trailing-whitespace
+[submodule "pathogen.vim.git"]
+	path = pathogen.vim.git
+	url = https://github.com/tpope/vim-pathogen.git
