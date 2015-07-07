@@ -11,3 +11,9 @@ $ ./setup.sh # after reviewing it!
 $ # same as above, but
 $ ./setup.sh youcompleteme
 ```
+
+## Disabling plugins
+```
+$ cd .vim/bundle
+$ # rm symlink to ../bundles/whatever
+```
