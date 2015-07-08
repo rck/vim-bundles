@@ -76,6 +76,10 @@ let g:ycm_confirm_extra_conf = 0
 " nerdtree
 map <leader>nt :NERDTreeToggle<CR>
 
+" white space
+highlight ExtraWhitespace ctermbg=red
+map <leader>ws :ToggleWhitespace<CR>
+
 " man pages
 source $VIMRUNTIME/ftplugin/man.vim
 nnoremap K :Man <C-R><C-W><CR>

@@ -52,9 +52,9 @@
 [submodule "tmuxline.vim.git"]
 	path = tmuxline.vim.git
 	url = https://github.com/edkolev/tmuxline.vim.git
-[submodule "trailing-whitespace.vim.git"]
-	path = trailing-whitespace.vim.git
-	url = http://github.com/bronson/vim-trailing-whitespace
 [submodule "pathogen.vim.git"]
 	path = pathogen.vim.git
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "better-whitespace.vim.git"]
+	path = better-whitespace.vim.git
+	url = https://github.com/ntpeters/vim-better-whitespace
