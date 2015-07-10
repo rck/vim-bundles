@@ -42,7 +42,7 @@ set cindent
 filetype plugin indent on
 syntax on
 set foldmethod=syntax
-set grepprg=git\ grep\ -n\ $*
+set grepprg=git\ grep\ --no-color\ -n\ $*
 
 :hi ColorColumn ctermbg=darkgrey
 " set cc=+1
