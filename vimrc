@@ -30,6 +30,7 @@ call pathogen#infect()
 set t_Co=256
 colorscheme lucius
 set background=dark
+set listchars=tab:»·,trail:·,eol:¬
 
 """ CODE/HACKING
 "set expandtab    " insert space characters whenever the tab key is presse
