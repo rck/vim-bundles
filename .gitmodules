@@ -58,3 +58,6 @@
 [submodule "better-whitespace.vim.git"]
 	path = better-whitespace.vim.git
 	url = https://github.com/ntpeters/vim-better-whitespace
+[submodule "calendar.vim.git"]
+	path = calendar.vim.git
+	url = https://github.com/itchyny/calendar.vim.git

@@ -155,6 +155,14 @@ map <Leader>h <Plug>(easymotion-linebackward)
 let g:EasyMotion_use_smartcase = 1
 let g:EasyMotion_startofline = 0 " keep cursor colum when JK motion
 
+" calendar
+let g:calendar_google_calendar = 1
+let g:calendar_google_task = 1
+let g:calendar_first_day = "monday"
+let g:calendar_date_endian = "little"
+let g:calendar_time_zone = "+0200"
+let g:calendar_date_separator = "."
+
 
 """ MAPPINGS
 " map Y y']
