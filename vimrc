@@ -1,5 +1,6 @@
 """ GENERAL SETTINGS
 set encoding=utf-8
+set fileencoding=utf-8
 set nocompatible
 set noshowmode
 set backspace=indent,eol,start " allow backspacing over everything in insert mode
@@ -162,6 +163,7 @@ let g:calendar_first_day = "monday"
 let g:calendar_date_endian = "little"
 let g:calendar_time_zone = "+0200"
 let g:calendar_date_separator = "."
+let g:calendar_frame = "unicode"
 
 
 """ MAPPINGS
