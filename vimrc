@@ -165,6 +165,9 @@ let g:calendar_time_zone = "+0200"
 let g:calendar_date_separator = "."
 let g:calendar_frame = "unicode"
 
+" vim-go
+let g:go_fmt_command = "goimports"
+
 
 """ MAPPINGS
 " map Y y']
