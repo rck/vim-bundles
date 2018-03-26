@@ -74,6 +74,8 @@ let g:indent_guides_guide_size = 1
 " youcompleteme
 let g:ycm_filetype_whitelist = {'c': 1, 'python': 1}
 let g:ycm_confirm_extra_conf = 0
+" Apply YCM FixIt
+map <F9> :YcmCompleter FixIt<CR>
 
 " nerdtree
 map <leader>nt :NERDTreeToggle<CR>
@@ -168,6 +170,9 @@ let g:calendar_frame = "unicode"
 " vim-go
 let g:go_fmt_command = "goimports"
 let g:go_auto_type_info = 1
+
+" kernel coding style
+let g:linuxsty_patterns = []
 
 
 """ MAPPINGS
