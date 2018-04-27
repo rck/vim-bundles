@@ -174,6 +174,8 @@ let g:go_auto_type_info = 1
 " kernel coding style
 let g:linuxsty_patterns = []
 
+" spec files
+let spec_chglog_packager = "Roland Kammerer <roland.kammerer@linbit.com>"
 
 """ MAPPINGS
 " map Y y']
