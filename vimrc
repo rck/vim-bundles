@@ -177,6 +177,9 @@ let g:linuxsty_patterns = []
 " spec files
 let spec_chglog_packager = "Roland Kammerer <roland.kammerer@linbit.com>"
 
+" perl
+autocmd FileType perl setlocal equalprg=perltidy\ -st
+
 """ MAPPINGS
 " map Y y']
 inoremap jj			<Esc>
