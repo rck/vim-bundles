@@ -73,3 +73,6 @@
 [submodule "easygrep.vim.git"]
 	path = easygrep.vim.git
 	url = https://github.com/dkprice/vim-easygrep
+[submodule "markdown.vim.git"]
+	path = markdown.vim.git
+	url = https://github.com/plasticboy/vim-markdown
