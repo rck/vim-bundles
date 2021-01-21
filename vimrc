@@ -182,6 +182,9 @@ let spec_chglog_packager = "Roland Kammerer <roland.kammerer@linbit.com>"
 " perl
 autocmd FileType perl setlocal equalprg=perltidy\ -st
 
+" rust
+let g:rustfmt_autosave = 1
+
 """ MAPPINGS
 " map Y y']
 inoremap jj			<Esc>

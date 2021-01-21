@@ -76,3 +76,6 @@
 [submodule "markdown.vim.git"]
 	path = markdown.vim.git
 	url = https://github.com/plasticboy/vim-markdown
+[submodule "rust.vim.git"]
+	path = rust.vim.git
+	url = https://github.com/rust-lang/rust.vim.git
