@@ -173,6 +173,17 @@ let g:go_auto_type_info = 1
 let g:go_def_mode = 'gopls'
 let g:go_info_mode = 'gopls'
 
+" rust
+augroup Racer
+	autocmd!
+	autocmd FileType rust nmap <buffer> gd         <Plug>(rust-def)
+	autocmd FileType rust nmap <buffer> gs         <Plug>(rust-def-split)
+	autocmd FileType rust nmap <buffer> gx         <Plug>(rust-def-vertical)
+	" autocmd FileType rust nmap <buffer> gt         <Plug>(rust-def-tab)
+	autocmd FileType rust nmap <buffer> <leader>gd <Plug>(rust-doc)
+	autocmd FileType rust nmap <buffer> <leader>gD <Plug>(rust-doc-tab)
+augroup END
+
 " kernel coding style
 let g:linuxsty_patterns = []
 
